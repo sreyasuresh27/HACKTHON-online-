@@ -1,6 +1,6 @@
 1 .CleanConnect
-Public Littering & Waste Management
-Idea Pitching Competition
+#Public Littering & Waste Management
+#Idea Pitching Competition
 LiORA Innovation Conclave Kerala 2026
 Initiative of Balasabha – Kerala State Kudumbashree Mission
 
